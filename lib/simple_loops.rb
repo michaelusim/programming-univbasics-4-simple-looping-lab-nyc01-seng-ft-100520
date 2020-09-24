@@ -6,6 +6,7 @@ end
 
 # Write your methods here
 def loop_message_n_times(array,n)
+  n.times{puts array}
   
   
 
