@@ -1,5 +1,10 @@
 # Write your methods here
-def return_string_array(array)
+def loop_message_five_times(array)
+
+end
+
+# Write your methods here
+def loop_message_five_times(array)
 
 end
 
