@@ -1,11 +1,13 @@
 # Write your methods here
 def loop_message_five_times(array)
-  for i in 
+  5.times{puts array}
 
 end
 
 # Write your methods here
-def loop_message_n_times(array)
+def loop_message_n_times(array,n)
+  
+  
 
 end
 
