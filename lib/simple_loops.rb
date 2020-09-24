@@ -8,7 +8,7 @@ def loop_message_n_times(array)
 
 end
 
-def return_string_array(array)
+def (array)
 
 end
 
