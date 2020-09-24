@@ -8,7 +8,8 @@ def loop_message_n_times(array)
 
 end
 
-def (array)
+def output_array(array)
+  puts array
 
 end
 
